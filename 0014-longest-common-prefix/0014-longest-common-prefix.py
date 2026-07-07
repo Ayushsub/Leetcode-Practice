@@ -12,4 +12,41 @@ class Solution:
 
         return a
             
+"""
+Sort the strings first.
+
+class Solution:
+    def longestCommonPrefix(self, strs: List[str]) -> str:
+        strs.sort()
+
+        first = strs[0]
+        last = strs[-1]
+
+        i = 0
+        while i < min(len(first), len(last)) and first[i] == last[i]:
+            i += 1
+
+        return first[:i]
+
+Why does this work?
+After sorting,
+
+flower
+flow
+flight
+
+becomes
+
+flight
+flow
+flower
+
+The common prefix of the first and last strings is the common prefix of the whole array.
+
+Time: O(n log n + m)
+
+Usually slower because of sorting.
+
+
+"""
         
