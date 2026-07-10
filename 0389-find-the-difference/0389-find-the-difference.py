@@ -16,4 +16,5 @@ class Solution:
         for c in t:
             x ^= ord(c)
         return chr(x)
+ord() is a built-in Python function that returns the ASCII (or Unicode) integer value of a character.
 """
