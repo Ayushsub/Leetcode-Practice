@@ -88,4 +88,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0268-missing-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Ayushsub/Leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Ayushsub/Leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Ayushsub/Leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Ayushsub/Leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
