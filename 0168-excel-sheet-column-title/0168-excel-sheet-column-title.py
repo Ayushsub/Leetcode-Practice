@@ -1,11 +1,11 @@
 class Solution:
     def convertToTitle(self, columnNumber: int) -> str:
-        ans=[]
+        ans=""
         while columnNumber:
             columnNumber-=1
-            ans.append(chr(columnNumber%26+ord('A')))
+            ans=chr(columnNumber%26+65)+ans
             columnNumber//=26
-        return "".join(ans[::-1])
+        return ans
 #Adjust by -1 because Excel columns are 1-based.
         
         
