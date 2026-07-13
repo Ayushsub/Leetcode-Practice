@@ -124,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0067-add-binary) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
