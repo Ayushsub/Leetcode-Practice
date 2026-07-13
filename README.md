@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1331-rank-transform-of-an-array) |
 ## Math
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1331-rank-transform-of-an-array) |
 ## Trie
 |  |
