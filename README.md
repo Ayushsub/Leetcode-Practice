@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
