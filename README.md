@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0035-search-insert-position) |
+| [0056-merge-intervals](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
