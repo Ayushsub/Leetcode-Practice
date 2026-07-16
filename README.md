@@ -220,8 +220,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0206-reverse-linked-list) |
 ## Database
 |  |
 | ------- |
 | [1890-the-latest-login-in-2020](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1890-the-latest-login-in-2020) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
