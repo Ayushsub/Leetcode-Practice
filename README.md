@@ -216,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
+## Database
+|  |
+| ------- |
+| [1890-the-latest-login-in-2020](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1890-the-latest-login-in-2020) |
 <!---LeetCode Topics End-->
