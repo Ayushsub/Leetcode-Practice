@@ -5,4 +5,5 @@ class Solution:
         count = Counter(nums)
 
         return [num for num, freq in count.most_common(k)]
+#Take the elements, sort them by frequency (highest to lowest) and return the first k elements.
     
