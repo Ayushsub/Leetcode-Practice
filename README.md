@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0076-minimum-window-substring) |
+| [0133-clone-graph](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0202-happy-number) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0133-clone-graph](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ayushsub/Leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0100-same-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0133-clone-graph](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ayushsub/Leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ayushsub/Leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Simulation
 |  |
