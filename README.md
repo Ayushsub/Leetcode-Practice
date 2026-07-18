@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0067-add-binary) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0078-subsets) |
