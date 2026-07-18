@@ -13,11 +13,7 @@ class Solution:
         result=0
         def backtrack(r,c,visited):
             nonlocal result #Use the result from the outer function, not create a new one
-            if(r<0 or c<0 or r>=rows or c>=cols):
-                return
-            if(grid[r][c]==-1):
-                return
-            if((r,c) in visited):
+            if(r<0 or c<0 or r>=rows or c>=cols or grid[r][c]==-1 or (r,c) in visited):
                 return
             visited.add((r,c))
             if(grid[r][c]==2):
