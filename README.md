@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0066-plus-one) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
