@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0202-happy-number) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0198-house-robber) |
@@ -377,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0210-course-schedule-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
