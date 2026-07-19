@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0389-find-the-difference) |
+| [0516-longest-palindromic-subsequence](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0771-jewels-and-stones](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0771-jewels-and-stones) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0746-min-cost-climbing-stairs) |
