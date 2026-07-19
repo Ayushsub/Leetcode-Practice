@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0494-target-sum) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ayushsub/Leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
