@@ -1,16 +1,3 @@
-# class Solution:
-#     def findTargetSumWays(self, nums: List[int], target: int) -> int:
-#         s=sum(nums)
-#         if abs(target)>s or (s+target)%2:
-#             return 0
-#         t=(s+target)//2
-#         dp=[0]*(t+1)
-#         dp[0]=1
-#         for num in nums:
-#             for j in range(t,num-1,-1):
-#                 dp[j]+=dp[j-num]
-#         return dp[t]
-
 class Solution:
     def findTargetSumWays(self, nums: List[int], target: int) -> int:
         memo={}
@@ -35,3 +22,30 @@ class Solution:
 #                 return 1 if s==target else 0
 #             return dfs(i+1,s+nums[i])+dfs(i+1,s-nums[i])
 #         return dfs(0,0)
+
+
+# class Solution:
+#     def findTargetSumWays(self, nums: List[int], target: int) -> int:
+#         total = sum(nums)
+
+#         # Impossible if target is outside possible sum range
+#         if abs(target) > total:
+#             return 0
+
+#         # P = (target + total) / 2 must be an integer
+#         if (target + total) % 2:
+#             return 0
+
+#         target_sum = (target + total) // 2
+
+#         # dp[i] = number of ways to form sum i
+#         dp = [0] * (target_sum + 1)
+#         dp[0] = 1
+
+#         # 0/1 Knapsack: count subsets with sum = target_sum
+#         for num in nums:
+#             # Traverse backwards so each number is used once
+#             for s in range(target_sum, num - 1, -1):
+#                 dp[s] += dp[s - num]
+
+#         return dp[target_sum]
