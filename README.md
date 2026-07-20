@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0583-delete-operation-for-two-strings) |
+| [0647-palindromic-substrings](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0771-jewels-and-stones](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0771-jewels-and-stones) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0647-palindromic-substrings](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0647-palindromic-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ayushsub/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0583-delete-operation-for-two-strings) |
+| [0647-palindromic-substrings](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
