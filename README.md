@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0389-find-the-difference) |
+| [0472-concatenated-words](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0472-concatenated-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0583-delete-operation-for-two-strings) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0472-concatenated-words](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0472-concatenated-words) |
 | [0485-max-consecutive-ones](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0139-word-break) |
+| [0472-concatenated-words](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0472-concatenated-words) |
 ## Stack
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
+| [0472-concatenated-words](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0516-longest-palindromic-subsequence) |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
+| [0472-concatenated-words](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0472-concatenated-words) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ayushsub/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
@@ -279,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
+| [0472-concatenated-words](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0472-concatenated-words) |
 | [0733-flood-fill](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ayushsub/Leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
