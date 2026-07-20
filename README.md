@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0202-happy-number) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0139-word-break) |
 ## Stack
 |  |
 | ------- |
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0279-perfect-squares) |
@@ -446,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Queue
