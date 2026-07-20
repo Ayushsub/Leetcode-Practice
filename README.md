@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [1049-last-stone-weight-ii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1049-last-stone-weight-ii) |
+| [1260-shift-2d-grid](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ayushsub/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0067-add-binary) |
+| [1260-shift-2d-grid](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ayushsub/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1260-shift-2d-grid) |
 ## Backtracking
 |  |
 | ------- |
