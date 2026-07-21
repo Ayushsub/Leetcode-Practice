@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0070-climbing-stairs) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0091-decode-ways) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ayushsub/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Matrix
 |  |
