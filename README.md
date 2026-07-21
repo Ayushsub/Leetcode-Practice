@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0091-decode-ways) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
