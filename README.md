@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0980-unique-paths-iii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0994-rotting-oranges) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1049-last-stone-weight-ii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1049-last-stone-weight-ii) |
 | [1260-shift-2d-grid](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1049-last-stone-weight-ii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1143-longest-common-subsequence) |
