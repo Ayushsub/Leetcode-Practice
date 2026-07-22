@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0279-perfect-squares) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ayushsub/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0337-house-robber-iii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0472-concatenated-words) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0980-unique-paths-iii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0980-unique-paths-iii) |
