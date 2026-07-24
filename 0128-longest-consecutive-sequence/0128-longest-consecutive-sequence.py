@@ -10,3 +10,4 @@ class Solution:
                 longest=max(longest,l)
         return longest
 
+#So O(n × n)=O(n²). This reasoning would be correct only if the while ran n times for every iteration of the for loop. It doesn't. it is O(n)
