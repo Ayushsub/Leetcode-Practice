@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
