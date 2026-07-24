@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0139-word-break) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ayushsub/Leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
