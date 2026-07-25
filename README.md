@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0980-unique-paths-iii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0994-rotting-oranges) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1049-last-stone-weight-ii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1049-last-stone-weight-ii) |
 | [1260-shift-2d-grid](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1260-shift-2d-grid) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0739-daily-temperatures) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Two Pointers
 |  |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0337-house-robber-iii) |
 | [0572-subtree-of-another-tree](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0337-house-robber-iii) |
 | [0572-subtree-of-another-tree](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Number Theory
 |  |
 | ------- |
@@ -495,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0739-daily-temperatures) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
@@ -548,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Topological Sort
 |  |
 | ------- |
