@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1049-last-stone-weight-ii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1049-last-stone-weight-ii) |
 | [1260-shift-2d-grid](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1260-shift-2d-grid) |
+| [1288-remove-covered-intervals](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ayushsub/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0472-concatenated-words) |
+| [1288-remove-covered-intervals](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ayushsub/Leetcode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ayushsub/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
