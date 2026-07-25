@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0389-find-the-difference) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0337-house-robber-iii) |
 | [0472-concatenated-words](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0472-concatenated-words) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0279-perfect-squares) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0733-flood-fill) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0337-house-robber-iii) |
 | [0572-subtree-of-another-tree](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -435,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0337-house-robber-iii) |
 | [0572-subtree-of-another-tree](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -450,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
