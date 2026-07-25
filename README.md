@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0337-house-robber-iii) |
 | [0472-concatenated-words](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0472-concatenated-words) |
+| [0572-subtree-of-another-tree](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ayushsub/Leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0337-house-robber-iii) |
+| [0572-subtree-of-another-tree](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0337-house-robber-iii) |
+| [0572-subtree-of-another-tree](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
 ## Number Theory
 |  |
 | ------- |
@@ -559,4 +563,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
