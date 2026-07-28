@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1768-merge-strings-alternately](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1768-merge-strings-alternately) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ayushsub/Leetcode-Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ayushsub/Leetcode-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0647-palindromic-substrings](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0647-palindromic-substrings) |
+| [1768-merge-strings-alternately](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ayushsub/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
 |  |
