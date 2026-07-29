@@ -8,7 +8,7 @@ class Solution:
             h=min(height[left],height[right])
             area=width*h
             max_water=max(max_water,area)
-            # move smaller height
+            #move smaller height
             if height[left]<height[right]:
                 left+=1
             else:
