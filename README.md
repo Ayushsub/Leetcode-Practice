@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ayushsub/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ayushsub/Leetcode-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Bit Manipulation
 |  |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Linked List
 |  |
 | ------- |
