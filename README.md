@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0334-increasing-triplet-subsequence](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0316-remove-duplicate-letters) |
+| [0334-increasing-triplet-subsequence](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
