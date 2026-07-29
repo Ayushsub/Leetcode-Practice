@@ -15,4 +15,7 @@ class Solution:
                 c-=1
             m=max(m,c)
         return m
+
+# sub=sub[1:]+s[i]    this is correct
+# sub=sub+s[i]-s[i-k]  this is incorrect
         
