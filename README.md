@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0443-string-compression) |
 | [0472-concatenated-words](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0472-concatenated-words) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0739-daily-temperatures) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |
