@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0647-palindromic-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ayushsub/Leetcode-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ayushsub/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
 |  |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0206-reverse-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ayushsub/Leetcode-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Database
 |  |
 | ------- |
