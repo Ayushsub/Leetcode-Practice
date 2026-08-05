@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ayushsub/Leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Ayushsub/Leetcode-Practice/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ayushsub/Leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Ayushsub/Leetcode-Practice/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ayushsub/Leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Ayushsub/Leetcode-Practice/tree/master/3310-remove-methods-from-project) |
 ## Simulation
 |  |
 | ------- |
