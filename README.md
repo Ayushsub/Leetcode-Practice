@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/Ayushsub/Leetcode-Practice/tree/master/2352-equal-row-and-column-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushsub/Leetcode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ayushsub/Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayushsub/Leetcode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ayushsub/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ayushsub/Leetcode-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1260-shift-2d-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/Ayushsub/Leetcode-Practice/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayushsub/Leetcode-Practice/tree/master/2390-removing-stars-from-a-string) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayushsub/Leetcode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ayushsub/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
