@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0746-min-cost-climbing-stairs) |
+| [0835-image-overlap](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
@@ -756,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0835-image-overlap) |
 | [0980-unique-paths-iii](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Ayushsub/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Ayushsub/Leetcode-Practice/tree/master/1260-shift-2d-grid) |
